@@ -1,6 +1,6 @@
 moved from a simple script to a high-performance automation tool, and the core Python concepts we used to get there.
 
-- python tracker.py To run the project
+- python tracker.py/py tracker.py To run the project
 ---
 
 # Chapter: Building a Multi-Repo Command Center
